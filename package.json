@@ -1,0 +1,9 @@
+{
+  "name": "tweet-notifier",
+  "version": "0.0.1",
+  "description": "tweet notifier",
+  "main": "app.js",
+  "repository": "https://github.com/HibikineKage/tweet-notifier",
+  "author": "Hibikine Kage",
+  "license": "MIT"
+}

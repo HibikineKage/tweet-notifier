@@ -59,4 +59,4 @@ typings/
 
 # Sensitive files
 /src/tokens.js
-/dist/token.js
+/dist/tokens.js
